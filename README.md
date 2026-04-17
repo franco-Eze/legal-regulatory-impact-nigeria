@@ -53,13 +53,29 @@ It combines financial data with key regulatory events to identify patterns in in
 
 ## 📈 Dashboard
 
-![Dashboard](dashboard.png)
-
+<img src="dashboard.png" width="800"/>
 ---
 
 ## 📁 Files Included
 
+## 📊 Data Summary
+
+The dataset includes:
+- Year (2020–2024)
+- Equities Market Capitalization (₦ Trillion)
+- Foreign Investor Participation (%)
+- Key Legal/Regulatory Events
+- Market Growth (%)
+
+This structure enables analysis of how regulatory actions influence investor behavior and market performance.
 * `legal-regulatory-analysis.xlsx` → Dataset and analysis
 * `dashboard.png` → Visual dashboard
 
+## 💡 Why This Project Matters
+
+This project demonstrates the intersection of law, finance, and data analysis by linking regulatory decisions to real market outcomes.
+
+It highlights how legal frameworks shape investor confidence and capital market development in emerging economies like Nigeria.
 ---
+
+
